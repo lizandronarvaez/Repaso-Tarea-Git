@@ -1,4 +1,4 @@
-# Lista de hores que lucharan.
+# Lista de heroes que lucharan.
 
 * Capitan America
 * Iron Man
