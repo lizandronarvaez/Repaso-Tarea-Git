@@ -15,5 +15,4 @@
 * Spider Woman
 * Thor
 * Vision
-* Wasp
 * Antman
