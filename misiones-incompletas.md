@@ -2,4 +2,6 @@
 
 ## Misiones:
 
-1.- Aprender a programar.
+* Aprender a programar.
+* Practicar Algoritmos.
+* Realizar Proyectos Intensivos.
