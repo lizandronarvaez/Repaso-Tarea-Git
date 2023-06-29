@@ -5,3 +5,5 @@
 * Aprender a programar.
 * Practicar Algoritmos.
 * Realizar Proyectos Intensivos.
+* Estudiar Patron de Diseños.
+* Aprender mas de un lenguaje de programacion.
